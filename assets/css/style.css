@@ -127,7 +127,14 @@ textarea { overflow: auto; }
 
 input, select, textarea, button { font-family: inherit; font-size: inherit; line-height: inherit; }
 
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; line-height: 1.5; color: #333; background-color: #fff; }
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 14px;
+    line-height: 1.65;
+    color: #333;
+    background-color: #FFF;
+    margin: 50px 0px 200px;
+}
 
 a { color: #4078c0; text-decoration: none; }
 a:hover, a:active { text-decoration: underline; }
@@ -144,7 +151,7 @@ td, th { padding: 0; }
 
 button { cursor: pointer; }
 
-h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: 0; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: 5px; }
 
 h1 { font-size: 32px; font-weight: 600; }
 
@@ -1394,6 +1401,4 @@ pre { margin-top: 0; margin-bottom: 0; font: 12px Consolas, "Liberation Mono", M
 .highlight { background-color: #f8f8f8; }
 
 
-.kitten {
-    background: #F00;
-}
+li { margin: 0px 0px 0px 30px; }
