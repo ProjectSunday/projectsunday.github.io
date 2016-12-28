@@ -4,7 +4,7 @@
 1. Résumé
 1. Passion
 
-Each of these varies in how long they take, and what their primary purpose is. You cannot do a project that combines these without failing. You *can* however convert one into another, though without clear understanding of the purpose of each, this tactic will also fail.
+Each of these varies in how long they take, and what their primary purpose is. **You cannot do a project that combines these without failing.** You *can* however convert one into another, though without clear understanding of the purpose of each, this tactic will also fail.
 
 
 
