@@ -1,4 +1,4 @@
-# The 3 different types of projects you can work on
+# The Three Types of Projects you can work on
 
 Picking one and sticking to it will allow you to actually finish your projects and understand what you want out of them.
 
