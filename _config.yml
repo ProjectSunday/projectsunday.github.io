@@ -1,2 +1,6 @@
 #Jekyll configuration
-markdown:kramdown
+name: Project Sunday
+description: Some text
+url: https://projectsunday.github.io
+markdown: kramdown
+highlighter: rouge
