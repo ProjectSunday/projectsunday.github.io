@@ -22,7 +22,7 @@ if (declareAVariable == 'kramdown') {
  }
  ```
 
- * Sub-Item of First Item. This is a bullet point next to the code block, also indented.
+ * Sub-Item of First Item. This is a bullet point next to the code block, also indented, but only on GitHub.com
 
 1. Second Item. This starts with the number 2 on GitHub.com.
 
