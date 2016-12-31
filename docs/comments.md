@@ -29,6 +29,7 @@ This is the process your code and comments should go through.
         $('.sidebar nav').css('width', 300);
     }
     ```
+
     * This is where many people say you should stop. This is *acceptable* code. It is better than before, and once you've done this a few times you can skip step 2, and sometimes skip step 1 if you already have names in your head for these things and go straight to step 3. Everyone should, and will get to this point after some practice. Commenting everyline is a good excersize because of this.
 
 1. Add comments back in, this time explaining the *reasoning* behind this code existing (*Contextual comments*)
