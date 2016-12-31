@@ -2,5 +2,5 @@
 name: Project Sunday
 description: Some text
 url: https://projectsunday.github.io
-markdown: kramdown
+markdown: markdown
 highlighter: rouge
