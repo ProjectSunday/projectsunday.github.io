@@ -1402,3 +1402,8 @@ pre { margin-top: 0; margin-bottom: 0; font: 12px Consolas, "Liberation Mono", M
 
 
 li { margin: 0px 0px 0px 30px; }
+
+.container {
+  max-width: 980px;
+  width: 80%
+}
