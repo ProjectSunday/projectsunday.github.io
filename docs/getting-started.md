@@ -10,6 +10,7 @@ These are the top items to look if you are interested in getting started in Web 
 1. **[CodePen](http://CodePen.io)** - Create an account. Use this for stuff you want to keep track of, or to search for existing examples.
 1. **[Free Code Camp](http://freecodecamp.com)** - Bootstrap, JS, and more
 1. **[Can I Use](http://caniuse.com)** - Tells you what browser support specific web features have.
+1. **[Learn Chrome Dev Tools](https://www.codeschool.com/courses/discover-devtools)** - Basically the same for other browsers as well.
 
 ## JavaScript Books
 
