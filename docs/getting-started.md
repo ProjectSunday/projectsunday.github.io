@@ -2,6 +2,8 @@
 
 These are the top items to look if you are interested in getting started in Web Development (mostly front-end).
 
+This page is meant to be a resource of the **most common** things I end up linking to people as they are learning web dev. It should be short so it doesn't overwhelm people.
+
 ## Mandatory Knowledge
 
 1. **[Web Dev Career Guide Video](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - MANDATORY WATCHING (If there is a newer version, watch that)
