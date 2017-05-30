@@ -1,9 +1,10 @@
 # Project Sunday
 
-* [Ubuntu VM Setup](https://projectsunday.github.io/Public/UbuntuVMSetup.html)
-* [Comments](https://projectsunday.github.io/docs/comments)
-* [Projects](https://projectsunday.github.io/docs/projects)
+* [Getting Started](https://projectsunday.github.io/docs/getting-started)
+* [Code Comments](https://projectsunday.github.io/docs/comments)
+* [Types of Projects](https://projectsunday.github.io/docs/projects)
 * [Project Ideas](https://projectsunday.github.io/docs/project-ideas)
+* [Ubuntu VM Setup](https://projectsunday.github.io/Public/UbuntuVMSetup.html)
 
 * * *
 
