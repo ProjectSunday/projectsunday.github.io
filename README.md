@@ -5,6 +5,7 @@
 * [Types of Projects](https://projectsunday.github.io/docs/projects)
 * [Project Ideas](https://projectsunday.github.io/docs/project-ideas)
 * [Ubuntu VM Setup](https://projectsunday.github.io/Public/UbuntuVMSetup.html)
+* [NPM global installs are an anti-pattern](https://projectsunday.github.io/docs/npm-global)
 
 * * *
 
