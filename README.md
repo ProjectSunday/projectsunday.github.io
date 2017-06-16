@@ -1,5 +1,6 @@
 # Project Sunday
 
+* [The Rules of Project Sunday](https://projectsunday.github.io/docs/the-rules)
 * [Getting Started](https://projectsunday.github.io/docs/getting-started)
 * [Code Comments](https://projectsunday.github.io/docs/comments)
 * [Types of Projects](https://projectsunday.github.io/docs/projects)
