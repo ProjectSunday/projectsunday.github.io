@@ -22,7 +22,8 @@ This page is meant to be a resource of the **most common** things I end up linki
 ## CSS Fun Time
 
 1. **[CSS Sushi](https://flukeout.github.io)** - CSS Selector game
-1. **[Flexbox Game](http://flexboxgame.com)** - Learn CSS Flexbox
-1. **[Flexbox Froggies](https://flexboxfroggy.com)** - Learn CSS Flexbox
-1. **[Flexbox Tower Defence](http://www.flexboxdefense.com)** - Learn CSS Flexbox
-1. **[CSS Grid Garden](https://cssgridgarden.com)** - Learn CSS Grids
+1. **[Flexbox Game](http://flexboxgame.com)** - Interactive CSS Flexbox Tutorial
+1. **[Flexbox Froggies](https://flexboxfroggy.com)** - CSS Flexbox Game
+1. **[Flexbox Tower Defence](http://www.flexboxdefense.com)** - CSS Flexbox Game
+1. **[CSS Grid Garden](https://cssgridgarden.com)** - CSS Grids Game
+1. **[Grid By Example](https://gridbyexample.com/video)** - CSS Grids Video Tutorials
