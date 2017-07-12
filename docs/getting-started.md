@@ -21,7 +21,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 
 ## CSS Fun Time
 
-1. **[CSS Layout Basics](http://www.dontfeartheinternet.com) - CSS Tutorial
+1. **[CSS Layout Basics](http://www.dontfeartheinternet.com)** - CSS Tutorial
 1. **[CSS Sushi](https://flukeout.github.io)** - CSS Selector game
 1. **[Flexbox Game](http://flexboxgame.com)** - Interactive CSS Flexbox Tutorial
 1. **[Flexbox Froggies](https://flexboxfroggy.com)** - CSS Flexbox Game
