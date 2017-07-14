@@ -13,6 +13,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 1. **[Free Code Camp](http://freecodecamp.com)** - Bootstrap, JS, and more
 1. **[Can I Use](http://caniuse.com)** - Tells you what browser support specific web features have.
 1. **[Learn Chrome Dev Tools](https://www.codeschool.com/courses/discover-devtools)** - Basically the same for other browsers as well.
+1. **[Why learning to code is so damn hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)** - important write up
 
 ## JavaScript Books
 
