@@ -90,10 +90,11 @@ Here are the common names I expect for most projects:
 
 * `npm start` - Starts the project, and auto-launches the app or browser
 * `npm run serve` - Starts the project, but doesn't auto-launch anything
-* `npm run dev` - If `npm start` is for production use, then this is used for development use.
+* `npm run dev` - If `npm start` is for production use, then this is used for development use
 * `npm run build` - Builds a package ready for deployment
-* `npm run bump` - Bumps the "patch" part of the version number (0.0.1 -> 0.0.2) in `package.json`, the git tag, and pushes.
+* `npm run bump` - Bumps the "patch" part of the version number (0.0.1 -> 0.0.2) in `package.json`, the git tag, and pushes
 * `npm run deploy` - Builds the package and then deploys it to a network location/server/host
 * `npm run test` - Runs some testing suite, typically unit tests
-* `npm run lint` - Lints all of your JavaScript files.
+* `npm run lint` - Lints all of your JavaScript files
+* `npm run fix` - Lints your JS files and also attempts to auto fix any errors
 * `npm run sasslint` - Lints all of your Sass files.
