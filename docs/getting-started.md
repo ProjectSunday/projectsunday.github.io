@@ -19,6 +19,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 
 1. **JavaScript: The Good Parts** - Book. Pay for it on Amazon, pirate it, or just get it from your local library.
 1. **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Free online book
+1. **[Eloquent JavaScript](http://eloquentjavascript.net)** - Free online book
 
 ## CSS Fun Time
 
