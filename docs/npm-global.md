@@ -23,7 +23,7 @@ It's actually surprisingly easy to get around this. We'll be using `gulp` in the
    ```bat
    npm install --save-dev gulp
    ```
-1. In your scripts sections, create an alias for whatever the global command you were going to have people run previously.
+1. In the scripts section of your `package.json`, create an alias for whatever the global command you were going to have people run previously.
    ```js
      scripts: {
        "build": "gulp build"
