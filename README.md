@@ -3,7 +3,7 @@
 * [The Rules of Project Sunday](https://projectsunday.github.io/docs/the-rules)
 * [Getting Started](https://projectsunday.github.io/docs/getting-started)
 * [Code Comments](https://projectsunday.github.io/docs/comments)
-* [Types of Projects](https://projectsunday.github.io/docs/projects)
+* [Types of Projects](https://medium.com/@thejaredwilcurt/finishing-the-projects-you-start-c34c27aa6f0f)
 * [Project Ideas](https://projectsunday.github.io/docs/project-ideas)
 * [Ubuntu VM Setup](https://projectsunday.github.io/Public/UbuntuVMSetup.html)
 * [NPM global installs are an anti-pattern](https://projectsunday.github.io/docs/npm-global)
