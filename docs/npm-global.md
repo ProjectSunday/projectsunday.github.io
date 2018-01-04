@@ -15,7 +15,7 @@ Globally installing Node Modules is an anti-pattern and should not be encouraged
 
 
 
-## What to do instead
+## What to do instead (on NPM 5.1.X and below)
 
 It's actually surprisingly easy to get around this. We'll be using `gulp` in the following example, because it's pretty popular and the *type* of thing I see being commonly recommended for global installs. But you can mentally replace it with any other Node Module if it makes you feel better.
 
@@ -32,6 +32,22 @@ It's actually surprisingly easy to get around this. We'll be using `gulp` in the
 1. Replace any pre-existing instructions for people to globally install `gulp` with instructions to just `npm install` and then run your new NPM script.
    > **BAD:** To build this repo do `npm install -g gulp` and then run `gulp build`.  
    > **GOOD:** To build this repo do `npm install` and then `npm run build`.
+
+
+
+## What to do instead (on NPM 5.2.0 and above)
+
+In NPM 5.2.0+ it's even easier now. We'll be using `gulp` in the following example, because it's pretty popular and the *type* of thing I see being commonly recommended for global installs. But you can mentally replace it with any other Node Module if it makes you feel better.
+
+1. In your `devDependencies` add the module manually and the version number you know works for your project, (hopefully the latest version). The easy way to do this is:
+   ```bat
+   npm install --save-dev gulp
+   ```
+1. Replace any pre-existing instructions for people to globally install `gulp` with instructions to just `npm install` and then run your new NPM script.
+   > **BAD:** To build this repo do `npm install -g gulp` and then run `gulp build`.  
+   > **GOOD:** To build this repo do `npm install` and then `npx gulp build`.
+
+This requires `gulp` to be in the `dependencies` or `devDependencies` so it will be installed locally in the `node_modules`. Then `npx` can run the commands without needing to create items in the `scripts` section of `package.json`.
 
 
 
