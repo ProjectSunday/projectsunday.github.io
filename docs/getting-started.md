@@ -21,6 +21,16 @@ This page is meant to be a resource of the **most common** things I end up linki
 1. **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Free online book
 1. **[Eloquent JavaScript](http://eloquentjavascript.net)** - Free online book
 
+## Getting Started with Vue.js
+
+1. Open [JSFiddle.net](https://jsfiddle.net/mnc0ekyw/), then follow the official [Getting Started](https://vuejs.org/v2/guide) guide.
+1. Anything from Maximilian Schwarzmüller is good:
+  * [Vue.js 2 - Getting Started](https://www.youtube.com/watch?v=nyJSd6V2DRI&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07) (Free)
+  * [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo) (Free)
+  * [Udemy Course: Vue + Router + Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/?couponCode=YOUTUBE_2)
+1. Sarah Drasner is one of the core members of the Vue team, she has a decent course on [Intro to Vue](https://frontendmasters.com/courses/vue), and is an expert in web animation.
+1. [CodeSandbox.io/s/vue](https://codesandbox.io/s/vue) - Like JSFiddle but for large webpack based projects.
+
 ## CSS Fun Time
 
 1. **[CSS Layout Basics](http://www.dontfeartheinternet.com)** - CSS Tutorial
