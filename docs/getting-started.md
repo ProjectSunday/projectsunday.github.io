@@ -33,6 +33,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 
 ## CSS Fun Time
 
+1. **[CSS Fundementals](https://www.jqueryuk.com/2015/videos/mdo-ular-css)** - Conference Talk from Bootstrap creator
 1. **[CSS Layout Basics](http://www.dontfeartheinternet.com)** - CSS Tutorial
 1. **[CSS Sushi](https://flukeout.github.io)** - CSS Selector game
 1. **[Flexbox Game](http://flexboxgame.com)** - Interactive CSS Flexbox Tutorial
@@ -40,3 +41,4 @@ This page is meant to be a resource of the **most common** things I end up linki
 1. **[Flexbox Tower Defence](http://www.flexboxdefense.com)** - CSS Flexbox Game
 1. **[CSS Grid Garden](https://cssgridgarden.com)** - CSS Grids Game
 1. **[Grid By Example](https://gridbyexample.com/video)** - CSS Grids Video Tutorials
+1. **[WTF HTML & CSS](http://wtfhtmlcss.com)** - Common issues people run into with HTML/CSS and their solutions
