@@ -49,6 +49,8 @@ In NPM 5.2.0+ it's even easier now. We'll be using `gulp` in the following examp
 
 This requires `gulp` to be in the `dependencies` or `devDependencies` so it will be installed locally in the `node_modules`. Then `npx` can run the commands without needing to create items in the `scripts` section of `package.json`.
 
+**Note:** Depending on your Node Version Manager, if you are on NPM 5.2.0+ but don't have access to `npx`, then you will (ironically), need to globally install it, `npm install -g npx`. However since this was meant to be globally installed anyway with npm, I think we can make an exception for it.
+
 
 
 ## Reasons why this is good
