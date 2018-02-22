@@ -10,7 +10,7 @@ Globally installing Node Modules is an anti-pattern and should not be encouraged
 1. Alternatively, if your repo is brand new and the user has a very old version of your desired module globally installed, it can also have issues.
 1. Users may need two different versions of the same module for two different repos designed to be used with the same globally installed module. Highly inconvenient.
 1. Instructions for how to use your repo are not consistent with other repos, slowing users down and requiring additional steps.
-1. Globally installing makes it harder to switch dependencies, like from `grunt` to `gulp`, or from `gulp` to `broccoli`, or from `gulp` to `browserify`, or from `gulp` to `webpack`, or from `webpack` to `rollup`. Technology evolves and tastes change. Don't make your users globally install every new dependency you want to try out. If you just update your devDependencies, they won't even notice the changes and will not have to do any extra work to keep your project running locally.
+1. Globally installing makes it harder to switch dependencies, like from `grunt` to `gulp`, or from `gulp` to `broccoli`, or from `gulp` to `browserify`, or from `gulp` to `webpack`, or from `webpack` to `parcel`. Technology evolves and tastes change. Don't make your users globally install every new dependency you want to try out. If you just update your devDependencies, they won't even notice the changes and will not have to do any extra work to keep your project running locally.
 1. No, I will not pollute my systems Environment PATH or global namespace for your project. You are not that important. You are not special. Get off my lawn.
 
 
