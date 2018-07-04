@@ -74,6 +74,81 @@ That's it, here's some bonus tips for sticking around:
 
 ## Bonus NPM tricks
 
+### How do I see what is globally installed?
+
+You can see a listing of all of your global installs AND all of their dependencies with:
+
+```
+npm list -g
+```
+
+```
++-- npm@5.6.0
+| +-- abbrev@1.1.1
+| +-- ansi-regex@3.0.0
+| +-- ansicolors@0.3.2
+| +-- ansistyles@0.1.3
+| +-- aproba@1.2.0
+| +-- archy@1.0.0
+| +-- bin-links@1.1.0
+| | +-- bluebird@3.5.1 deduped
+| | +-- cmd-shim@2.0.2 deduped
+| | +-- fs-write-stream-atomic@1.0.10 deduped
+| | +-- gentle-fs@2.0.1 deduped
+| | +-- graceful-fs@4.1.11 deduped
+| | `-- slide@1.1.6 deduped
+| +-- bluebird@3.5.1
+| +-- cacache@10.0.1
+| | +-- bluebird@3.5.1 deduped
+| | +-- chownr@1.0.1 deduped
+...and so on for thousands of lines
+```
+
+But that is long, messy, and mostly stuff you don't care about, so instead, you can limit it just to showing your globally installed modules WITHOUT all of their dependencies.
+
+```
+npm list -g --depth=0
+```
+
+```
++-- npm@5.6.0
++-- npx@10.2.0
+`-- vue-cli@2.9.3
+```
+
+That's a lot better, now you only see the packages you care about, but what if you are not sure what some of them are?
+
+```
+npm la -g --depth=0
+```
+
+```
++-- npm@5.6.0
+|   a package manager for JavaScript
+|   git+https://github.com/npm/npm.git
+|   https://docs.npmjs.com/
++-- npx@10.2.0
+|   execute npm package binaries
+|   git+https://github.com/zkat/npx.git
+|   https://github.com/zkat/npx#readme
+`-- vue-cli@2.9.3
+    A simple CLI for scaffolding Vue.js projects.
+    git+https://github.com/vuejs/vue-cli.git
+    https://github.com/vuejs/vue-cli#readme
+```
+
+Cool, now you've got a detailed list of your globally installed packages.
+
+* * *
+
+### How do I remove globally installed packages
+
+```
+npm uninstall -g name-of-the-package
+```
+
+* * *
+
 ### I have something that needs to be ran *after* the `npm install`
 
 So sometimes you can't just tell a user to `npm install` and `npm start`. What if, for example, you have *additional* dependencies that need downloading from another service, like `bower`?
