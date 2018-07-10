@@ -6,7 +6,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 
 ## Mandatory Knowledge
 
-1. **[Web Dev Career Guide Video](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - MANDATORY WATCHING (If there is a newer version, watch that)
+1. **[Web Dev Career Guide Video](https://www.youtube.com/watch?v=gVXcqO9A1vo)** - MANDATORY WATCHING (If there is a newer version, watch that)
 1. **[MarkSheet](http://marksheet.io)** - HTML/CSS/Sass
 1. **[JSFiddle](http://JSFiddle.net)** - Use this when you are having trouble getting code to work and need help from someone
 1. **[CodePen](http://CodePen.io)** - Create an account. Use this for stuff you want to keep track of, or to search for existing examples.
