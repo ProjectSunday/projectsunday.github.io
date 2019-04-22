@@ -1,6 +1,6 @@
 # Getting Started in Web Dev
 
-These are the top items to look if you are interested in getting started in Web Development (mostly front-end).
+These are the top items to look in to if you are interested in getting started in Web Development (mostly front-end).
 
 This page is meant to be a resource of the **most common** things I end up linking to people as they are learning web dev. It should be short so it doesn't overwhelm people.
 
