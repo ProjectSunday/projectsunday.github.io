@@ -25,6 +25,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 
 1. Open [JSFiddle.net](https://jsfiddle.net/mnc0ekyw/), then follow the official [Getting Started](https://vuejs.org/v2/guide) guide.
 1. Anything from Maximilian Schwarzmüller is good:
+   * [Vue Mastery](https://www.vuemastery.com) (Intro to Vue is free, advanced classes are not)
    * [Vue.js 2 - Getting Started](https://www.youtube.com/watch?v=nyJSd6V2DRI&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07) (Free)
    * [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo) (Free)
    * [Udemy Course: Vue + Router + Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/?couponCode=YOUTUBE_2)
@@ -33,6 +34,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 
 ## CSS Fun Time
 
+1. **[MarkSheet](http://marksheet.io)** - HTML/CSS/Sass
 1. **[CSS Fundementals](https://www.jqueryuk.com/2015/videos/mdo-ular-css)** - Conference Talk from Bootstrap creator
 1. **[CSS Layout Basics](http://www.dontfeartheinternet.com)** - CSS Tutorial
 1. **[CSS Sushi](https://flukeout.github.io)** - CSS Selector game
