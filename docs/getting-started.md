@@ -20,6 +20,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 1. **JavaScript: The Good Parts** - Book. Pay for it on Amazon, pirate it, or just get it from your local library.
 1. **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Free online book
 1. **[Eloquent JavaScript](http://eloquentjavascript.net)** - Free online book
+1. **[ExploringJS](https://exploringjs.com)** - Several free online books that stick close to the ES spec
 
 ## Getting Started with Vue.js
 
