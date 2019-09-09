@@ -21,6 +21,7 @@ This page is meant to be a resource of the **most common** things I end up linki
 1. **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Free online book
 1. **[Eloquent JavaScript](http://eloquentjavascript.net)** - Free online book
 1. **[ExploringJS](https://exploringjs.com)** - Several free online books that stick close to the ES spec
+1. **[JS.info](https://javascript.info)** - Online JS resource, little easier to read than MDN
 
 ## Getting Started with Vue.js
 
