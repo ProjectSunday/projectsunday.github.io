@@ -1,6 +1,6 @@
 # Contextual vs Literal Comments
 
-## The 4 step process your code should go through
+## The 5 step process your code should go through
 
 1. **Code Sketching:** You understand the problem, and how to solve it with code. Quickly write it out, don't waste time thinking about names, just focus on logic.
 
