@@ -38,6 +38,20 @@
            $('.sidebar nav').css('width', 300);
        }
 
+
+1. **Refactor Comments:** Bake the contextual comments into the code with new variable names or functions
+
+       function setSidebarWidthBasedOnXyzIframe () {
+         var sidebarHeight = $('.sidebar').height();
+         var defaultXyzAdvertisingIframeHeight = 248;
+         if (sidebarHeight < defaultXyzAdvertisingIframeHeight) {
+             // must be between 280 & 345
+             var xyzNavWidth = 300;
+             $('.sidebar nav').css('width', xyzNavWidth);
+         }
+       }
+       setSidebarWidthBasedOnXyzIframe();
+
 * * *
 
 See, these comments tell me **a lot**.
