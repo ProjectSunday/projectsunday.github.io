@@ -1,4 +1,4 @@
-# NPM global installs are an anti-pattern
+# Global npm installs are an anti-pattern
 
 Globally installing Node Modules is an anti-pattern and should not be encouraged. Here's why, and what to do instead.
 
@@ -37,7 +37,7 @@ It's actually surprisingly easy to get around this. We'll be using `gulp` in the
 
 ## What to do instead (on NPM 5.2.0 and above)
 
-In NPM 5.2.0+ it's even easier now. We'll be using `gulp` in the following example, because it's pretty popular and the *type* of thing I see being commonly recommended for global installs. But you can mentally replace it with any other Node Module if it makes you feel better.
+In npm 5.2.0+ it's even easier now. We'll be using `gulp` in the following example, because it's pretty popular and the *type* of thing I see being commonly recommended for global installs. But you can mentally replace it with any other Node Module if it makes you feel better.
 
 1. In your `devDependencies` add the module manually and the version number you know works for your project, (hopefully the latest version). The easy way to do this is:
    ```bat
@@ -49,7 +49,7 @@ In NPM 5.2.0+ it's even easier now. We'll be using `gulp` in the following examp
 
 This requires `gulp` to be in the `dependencies` or `devDependencies` so it will be installed locally in the `node_modules`. Then `npx` can run the commands without needing to create items in the `scripts` section of `package.json`.
 
-**Note:** Depending on your Node Version Manager, if you are on NPM 5.2.0+ but don't have access to `npx`, then you will (ironically), need to globally install it, `npm install -g npx`. However since this was meant to be globally installed anyway with npm, I think we can make an exception for it.
+**Note:** Depending on your Node Version Manager, if you are on npm 5.2.0+ but don't have access to `npx`, then you will (ironically), need to globally install it, `npm install -g npx`. However since this was meant to be globally installed anyway with npm, I think we can make an exception for it.
 
 
 
@@ -72,7 +72,7 @@ This requires `gulp` to be in the `dependencies` or `devDependencies` so it will
 
 That's it, here's some bonus tips for sticking around:
 
-## Bonus NPM tricks
+## Bonus npm tricks
 
 ### How do I see what is globally installed?
 
