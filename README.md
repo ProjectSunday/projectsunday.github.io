@@ -2,7 +2,7 @@
 
 * [The Rules of Project Sunday](https://projectsunday.github.io/docs/the-rules)
 * [Getting Started](https://dev.to/thejaredwilcurt/getting-started-in-web-dev-2med)
-* [Code Comments](https://projectsunday.github.io/docs/comments)
+* [Code Comments](https://dev.to/thejaredwilcurt/properly-commenting-code-literal-vs-contextual-comments-1o8h)
 * [Types of Projects](https://medium.com/@thejaredwilcurt/finishing-the-projects-you-start-c34c27aa6f0f)
 * [Project Ideas](https://projectsunday.github.io/docs/project-ideas)
 * [Ubuntu VM Setup](https://projectsunday.github.io/Public/UbuntuVMSetup.html)
