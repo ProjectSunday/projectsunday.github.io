@@ -6,7 +6,7 @@
 * [Types of Projects](https://medium.com/@thejaredwilcurt/finishing-the-projects-you-start-c34c27aa6f0f)
 * [Project Ideas](https://projectsunday.github.io/docs/project-ideas)
 * [Ubuntu VM Setup](https://projectsunday.github.io/Public/UbuntuVMSetup.html)
-* [NPM global installs are an anti-pattern](https://projectsunday.github.io/docs/npm-global)
+* [Global npm installs are an anti-pattern](https://projectsunday.github.io/docs/npm-global)
 
 * * *
 
